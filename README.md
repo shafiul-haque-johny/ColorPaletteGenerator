@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
+https://github.com/shafiul-haque-johny/ColorPaletteGenerator/assets/71293557/7170adac-0a68-4284-abf0-544f8c3aa48c
+
+
+
